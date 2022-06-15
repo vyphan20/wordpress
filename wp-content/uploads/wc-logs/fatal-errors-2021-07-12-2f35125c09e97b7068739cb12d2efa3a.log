@@ -1,0 +1,198 @@
+2021-07-12T06:12:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T06:12:06+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T06:22:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T06:22:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T09:32:59+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T09:33:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T12:54:03+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T12:54:05+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T13:54:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T13:55:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T14:39:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T14:39:04+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:04:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:04:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:22:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:22:25+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:54:07+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T15:54:09+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T16:47:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T16:47:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T20:33:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+
+2021-07-12T20:33:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php:31
+Stack trace:
+#0 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require()
+#1 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(676): load_template('/home/rvmdlzwo/...', false, Array)
+#2 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/inc/structure/structure-header.php(97): get_template_part('template-parts/...', '')
+#4 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/header-main.php(27): flatsome_header_elements('header_elements...')
+#5 /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-includes/template.php(732): require('/home/rvmdlzwo/...') in /home/rvmdlzwo/domains/anhducfpt.site/public_html/wp-content/themes/flatsome/template-parts/header/partials/element-cart.php on line 31
+

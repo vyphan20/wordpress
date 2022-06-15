@@ -1,0 +1,10 @@
+2021-07-16T08:10:00+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2021-07-16T08:10:00+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Jetpack authorization header error.
+2021-07-16T08:10:01+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2021-07-16T08:10:01+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Jetpack authorization header error.
+2021-07-16T08:10:01+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2021-07-16T08:10:01+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Jetpack authorization header error.
+2021-07-16T08:10:02+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2021-07-16T08:10:02+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Jetpack authorization header error.
+2021-07-16T08:10:03+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\{closure} in add_auth_header() A WP Error was generated. Code: "no_possible_tokens" Message: "No blog token found".
+2021-07-16T08:10:03+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Jetpack authorization header error.

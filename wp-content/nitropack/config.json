@@ -1,0 +1,19 @@
+{
+    "anhducfpt.site": {
+        "siteId": "xNjmgqoeEmYzDMTPXFPOirkcTqlGCtlv",
+        "siteSecret": "Q0slalFw5UWJemeNBXecG2Yr2Z6axB2MHWFCKgwFW0X89mfGxiK0MKMYLZjyf5E3",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "abe3b0eb62efcd084a1b7284e01f06a4",
+        "home_url": "http:\/\/anhducfpt.site",
+        "admin_url": "http:\/\/anhducfpt.site\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.4"
+    }
+}

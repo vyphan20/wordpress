@@ -1,0 +1,201 @@
+2021-06-12T10:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 234) because it does not pass validation: {"woocommerce_id":234,"errors":["[price] This value should not be null."]}
+2021-06-12T10:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 130) because it does not pass validation: {"woocommerce_id":130,"errors":["[price] This value should not be null."]}
+2021-06-12T10:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 131) because it does not pass validation: {"woocommerce_id":131,"errors":["[price] This value should not be null."]}
+2021-06-12T10:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 132) because it does not pass validation: {"woocommerce_id":132,"errors":["[price] This value should not be null."]}
+2021-06-12T10:13:33+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\BatchProductHelper::validate_and_generate_update_request_entries Skipping product (ID: 133) because it does not pass validation: {"woocommerce_id":133,"errors":["[price] This value should not be null."]}
+2021-06-12T10:13:41+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 38 products:
+[{"woocommerce_id":437,"google_id":"online:vi:VN:gla_437"},{"woocommerce_id":434,"google_id":"online:vi:VN:gla_434"},{"woocommerce_id":430,"google_id":"online:vi:VN:gla_430"},{"woocommerce_id":425,"google_id":"online:vi:VN:gla_425"},{"woocommerce_id":421,"google_id":"online:vi:VN:gla_421"},{"woocommerce_id":416,"google_id":"online:vi:VN:gla_416"},{"woocommerce_id":412,"google_id":"online:vi:VN:gla_412"},{"woocommerce_id":408,"google_id":"online:vi:VN:gla_408"},{"woocommerce_id":339,"google_id":"online:vi:VN:gla_339"},{"woocommerce_id":338,"google_id":"online:vi:VN:gla_338"},{"woocommerce_id":336,"google_id":"online:vi:VN:gla_336"},{"woocommerce_id":337,"google_id":"online:vi:VN:gla_337"},{"woocommerce_id":335,"google_id":"online:vi:VN:gla_335"},{"woocommerce_id":334,"google_id":"online:vi:VN:gla_334"},{"woocommerce_id":332,"google_id":"online:vi:VN:gla_332"},{"woocommerce_id":333,"google_id":"online:vi:VN:gla_333"},{"woocommerce_id":235,"google_id":"online:vi:VN:gla_235"},{"woocommerce_id":236,"google_id":"online:vi:VN:gla_236"},{"woocommerce_id":109,"google_id":"online:vi:VN:gla_109"},{"woocommerce_id":104,"google_id":"online:vi:VN:gla_104"},{"woocommerce_id":101,"google_id":"online:vi:VN:gla_101"},{"woocommerce_id":98,"google_id":"online:vi:VN:gla_98"},{"woocommerce_id":95,"google_id":"online:vi:VN:gla_95"},{"woocommerce_id":91,"google_id":"online:vi:VN:gla_91"},{"woocommerce_id":89,"google_id":"online:vi:VN:gla_89"},{"woocommerce_id":85,"google_id":"online:vi:VN:gla_85"},{"woocommerce_id":83,"google_id":"online:vi:VN:gla_83"},{"woocommerce_id":80,"google_id":"online:vi:VN:gla_80"},{"woocommerce_id":77,"google_id":"online:vi:VN:gla_77"},{"woocommerce_id":66,"google_id":"online:vi:VN:gla_66"},{"woocommerce_id":62,"google_id":"online:vi:VN:gla_62"},{"woocommerce_id":60,"google_id":"online:vi:VN:gla_60"},{"woocommerce_id":56,"google_id":"online:vi:VN:gla_56"},{"woocommerce_id":52,"google_id":"online:vi:VN:gla_52"},{"woocommerce_id":48,"google_id":"online:vi:VN:gla_48"},{"woocommerce_id":44,"google_id":"online:vi:VN:gla_44"},{"woocommerce_id":40,"google_id":"online:vi:VN:gla_40"},{"woocommerce_id":35,"google_id":"online:vi:VN:gla_35"}]
+0 Failed:
+[]
+2021-06-12T16:14:47+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":437,"google_id":"online:vi:VN:gla_437"}]
+0 Failed:
+[]
+2021-06-12T16:26:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":412,"google_id":"online:vi:VN:gla_412"}]
+0 Failed:
+[]
+2021-06-12T16:27:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":416,"google_id":"online:vi:VN:gla_416"}]
+0 Failed:
+[]
+2021-06-12T16:28:48+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":434,"google_id":"online:vi:VN:gla_434"}]
+0 Failed:
+[]
+2021-06-12T16:29:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":430,"google_id":"online:vi:VN:gla_430"}]
+0 Failed:
+[]
+2021-06-12T16:30:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":425,"google_id":"online:vi:VN:gla_425"}]
+0 Failed:
+[]
+2021-06-12T16:31:05+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":104,"google_id":"online:vi:VN:gla_104"}]
+0 Failed:
+[]
+2021-06-12T16:37:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":98,"google_id":"online:vi:VN:gla_98"}]
+0 Failed:
+[]
+2021-06-12T16:37:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":91,"google_id":"online:vi:VN:gla_91"}]
+0 Failed:
+[]
+2021-06-12T16:38:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":89,"google_id":"online:vi:VN:gla_89"}]
+0 Failed:
+[]
+2021-06-12T16:38:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":83,"google_id":"online:vi:VN:gla_83"}]
+0 Failed:
+[]
+2021-06-12T16:38:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":66,"google_id":"online:vi:VN:gla_66"}]
+0 Failed:
+[]
+2021-06-12T16:38:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":62,"google_id":"online:vi:VN:gla_62"}]
+0 Failed:
+[]
+2021-06-12T16:38:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":332,"google_id":"online:vi:VN:gla_332"}]
+0 Failed:
+[]
+2021-06-12T16:39:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":333,"google_id":"online:vi:VN:gla_333"}]
+0 Failed:
+[]
+2021-06-12T16:40:05+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":332,"google_id":"online:vi:VN:gla_332"}]
+0 Failed:
+[]
+2021-06-12T16:40:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":333,"google_id":"online:vi:VN:gla_333"}]
+0 Failed:
+[]
+2021-06-12T16:41:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":421,"google_id":"online:vi:VN:gla_421"}]
+0 Failed:
+[]
+2021-06-12T16:43:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":437,"google_id":"online:vi:VN:gla_437"}]
+0 Failed:
+[]
+2021-06-12T16:43:19+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":434,"google_id":"online:vi:VN:gla_434"}]
+0 Failed:
+[]
+2021-06-12T16:43:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":430,"google_id":"online:vi:VN:gla_430"}]
+0 Failed:
+[]
+2021-06-12T16:43:23+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":425,"google_id":"online:vi:VN:gla_425"}]
+0 Failed:
+[]
+2021-06-12T16:43:25+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":421,"google_id":"online:vi:VN:gla_421"}]
+0 Failed:
+[]
+2021-06-12T16:43:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":416,"google_id":"online:vi:VN:gla_416"}]
+0 Failed:
+[]
+2021-06-12T16:43:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":412,"google_id":"online:vi:VN:gla_412"}]
+0 Failed:
+[]
+2021-06-12T16:43:31+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":408,"google_id":"online:vi:VN:gla_408"}]
+0 Failed:
+[]
+2021-06-12T16:43:34+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":235,"google_id":"online:vi:VN:gla_235"}]
+0 Failed:
+[]
+2021-06-12T16:43:36+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":236,"google_id":"online:vi:VN:gla_236"}]
+0 Failed:
+[]
+2021-06-12T16:43:38+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":109,"google_id":"online:vi:VN:gla_109"}]
+0 Failed:
+[]
+2021-06-12T16:43:40+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":338,"google_id":"online:vi:VN:gla_338"}]
+0 Failed:
+[]
+2021-06-12T16:43:50+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":339,"google_id":"online:vi:VN:gla_339"}]
+0 Failed:
+[]
+2021-06-12T16:43:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":104,"google_id":"online:vi:VN:gla_104"}]
+0 Failed:
+[]
+2021-06-12T16:43:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":101,"google_id":"online:vi:VN:gla_101"}]
+0 Failed:
+[]
+2021-06-12T16:43:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":98,"google_id":"online:vi:VN:gla_98"}]
+0 Failed:
+[]
+2021-06-12T16:43:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":95,"google_id":"online:vi:VN:gla_95"}]
+0 Failed:
+[]
+2021-06-12T16:44:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":91,"google_id":"online:vi:VN:gla_91"}]
+0 Failed:
+[]
+2021-06-12T16:44:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":89,"google_id":"online:vi:VN:gla_89"}]
+0 Failed:
+[]
+2021-06-12T16:44:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":85,"google_id":"online:vi:VN:gla_85"}]
+0 Failed:
+[]
+2021-06-12T16:44:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":83,"google_id":"online:vi:VN:gla_83"}]
+0 Failed:
+[]
+2021-06-12T16:44:09+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":80,"google_id":"online:vi:VN:gla_80"}]
+0 Failed:
+[]
+2021-06-12T16:44:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":77,"google_id":"online:vi:VN:gla_77"}]
+0 Failed:
+[]
+2021-06-12T16:44:20+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":334,"google_id":"online:vi:VN:gla_334"}]
+0 Failed:
+[]
+2021-06-12T16:44:22+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":335,"google_id":"online:vi:VN:gla_335"}]
+0 Failed:
+[]
+2021-06-12T16:44:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":336,"google_id":"online:vi:VN:gla_336"}]
+0 Failed:
+[]
+2021-06-12T16:44:26+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":337,"google_id":"online:vi:VN:gla_337"}]
+0 Failed:
+[]
+2021-06-12T16:44:28+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":66,"google_id":"online:vi:VN:gla_66"}]
+0 Failed:
+[]
+2021-06-12T16:44:30+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":62,"google_id":"online:vi:VN:gla_62"}]
+0 Failed:
+[]
+2021-06-12T16:44:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":60,"google_id":"online:vi:VN:gla_60"}]
+0 Failed:
+[]

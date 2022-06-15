@@ -1,0 +1,82 @@
+2022-06-15T03:53:58+00:00 CRITICAL Uncaught mysqli_sql_exception: Table 'local_vy.yoast_wp_seo_models_indexable' doesn't exist in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php:2056
+Stack trace:
+#0 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(2056): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(1945): wpdb->_do_query('SELECT * FROM `...')
+#2 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(286): wpdb->query('SELECT * FROM `...')
+#3 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(1953): Yoast\WP\Lib\ORM::execute('SELECT * FROM `...', Array)
+#4 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(384): Yoast\WP\Lib\ORM->run()
+#5 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\repositories\indexable-repository.php(233): Yoast\WP\Lib\ORM->find_one()
+#6 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-home-page-watcher.php(110): Yoast\WP\SEO\Repositories\Indexable_Repository->find_for_home_page(false)
+#7 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-home-page-watcher.php(98): Yoast\WP\SEO\Integrations\Watchers\Indexable_Home_Page_Watcher->build_indexable()
+#8 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): Yoast\WP\SEO\Integrations\Watchers\Indexable_Home_Page_Watcher->check_option(Array, Array, 'wpseo_titles')
+#9 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(false, Array)
+#10 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\vymonky\wp-includes\option.php(475): do_action('update_option_w...', Array, Array, 'wpseo_titles')
+#12 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\inc\class-upgrade.php(1175): update_option('wpseo_titles', Array)
+#13 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): WPSEO_Upgrade->copy_og_settings_from_social_to_titles('')
+#14 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#15 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#16 C:\xampp\htdocs\vymonky\wp-settings.php(560): do_action('init')
+#17 C:\xampp\htdocs\vymonky\wp-config.php(94): require_once('C:\\xampp\\htdocs...')
+#18 C:\xampp\htdocs\vymonky\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#19 C:\xampp\htdocs\vymonky\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#20 C:\xampp\htdocs\vymonky\index.php(17): require('C:\\xampp\\htdocs...')
+#21 {main}
+  thrown in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php on line 2056
+
+2022-06-15T04:03:13+00:00 CRITICAL Uncaught mysqli_sql_exception: Table 'local_vy.yoast_wp_seo_models_indexable' doesn't exist in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php:2056
+Stack trace:
+#0 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(2056): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(1945): wpdb->_do_query('SELECT * FROM `...')
+#2 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(286): wpdb->query('SELECT * FROM `...')
+#3 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(1953): Yoast\WP\Lib\ORM::execute('SELECT * FROM `...', Array)
+#4 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(384): Yoast\WP\Lib\ORM->run()
+#5 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\repositories\indexable-repository.php(233): Yoast\WP\Lib\ORM->find_one()
+#6 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-home-page-watcher.php(110): Yoast\WP\SEO\Repositories\Indexable_Repository->find_for_home_page(false)
+#7 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-home-page-watcher.php(98): Yoast\WP\SEO\Integrations\Watchers\Indexable_Home_Page_Watcher->build_indexable()
+#8 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): Yoast\WP\SEO\Integrations\Watchers\Indexable_Home_Page_Watcher->check_option(Array, Array, 'wpseo_titles')
+#9 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(false, Array)
+#10 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\vymonky\wp-includes\option.php(475): do_action('update_option_w...', Array, Array, 'wpseo_titles')
+#12 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\inc\class-upgrade.php(1175): update_option('wpseo_titles', Array)
+#13 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): WPSEO_Upgrade->copy_og_settings_from_social_to_titles('')
+#14 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#15 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#16 C:\xampp\htdocs\vymonky\wp-settings.php(560): do_action('init')
+#17 C:\xampp\htdocs\vymonky\wp-config.php(94): require_once('C:\\xampp\\htdocs...')
+#18 C:\xampp\htdocs\vymonky\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#19 C:\xampp\htdocs\vymonky\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#20 C:\xampp\htdocs\vymonky\index.php(17): require('C:\\xampp\\htdocs...')
+#21 {main}
+  thrown in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php on line 2056
+
+2022-06-15T04:07:25+00:00 CRITICAL Uncaught mysqli_sql_exception: Table 'local_vy.yoast_wp_seo_models_indexable' doesn't exist in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php:2056
+Stack trace:
+#0 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(2056): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 C:\xampp\htdocs\vymonky\wp-includes\wp-db.php(1945): wpdb->_do_query('SELECT * FROM `...')
+#2 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(286): wpdb->query('SELECT * FROM `...')
+#3 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(1953): Yoast\WP\Lib\ORM::execute('SELECT * FROM `...', Array)
+#4 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\lib\orm.php(384): Yoast\WP\Lib\ORM->run()
+#5 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\repositories\indexable-repository.php(312): Yoast\WP\Lib\ORM->find_one()
+#6 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\repositories\indexable-repository.php(141): Yoast\WP\SEO\Repositories\Indexable_Repository->find_for_system_page('404')
+#7 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\memoizers\meta-tags-context-memoizer.php(96): Yoast\WP\SEO\Repositories\Indexable_Repository->for_current_page()
+#8 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\front-end\wp-robots-integration.php(87): Yoast\WP\SEO\Memoizers\Meta_Tags_Context_Memoizer->for_current_page()
+#9 C:\xampp\htdocs\vymonky\wp-content\plugins\wordpress-seo\src\integrations\front-end\wp-robots-integration.php(73): Yoast\WP\SEO\Integrations\Front_End\WP_Robots_Integration->get_robots_value()
+#10 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): Yoast\WP\SEO\Integrations\Front_End\WP_Robots_Integration->add_robots(Array)
+#11 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#12 C:\xampp\htdocs\vymonky\wp-includes\robots-template.php(32): apply_filters('wp_robots', Array)
+#13 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(292): wp_robots('')
+#14 C:\xampp\htdocs\vymonky\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#15 C:\xampp\htdocs\vymonky\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#16 C:\xampp\htdocs\vymonky\wp-includes\general-template.php(3009): do_action('wp_head')
+#17 C:\xampp\htdocs\vymonky\wp-content\themes\flatsome\header.php(10): wp_head()
+#18 C:\xampp\htdocs\vymonky\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#19 C:\xampp\htdocs\vymonky\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#20 C:\xampp\htdocs\vymonky\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#21 C:\xampp\htdocs\vymonky\wp-content\themes\flatsome\404.php(10): get_header()
+#22 C:\xampp\htdocs\vymonky\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#23 C:\xampp\htdocs\vymonky\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#24 C:\xampp\htdocs\vymonky\index.php(17): require('C:\\xampp\\htdocs...')
+#25 {main}
+  thrown in C:\xampp\htdocs\vymonky\wp-includes\wp-db.php on line 2056
+
